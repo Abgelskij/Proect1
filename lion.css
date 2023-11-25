@@ -1,0 +1,20 @@
+.a{
+    background-color: rgb(34, 40, 54);
+}
+ul {list-style-type: none;}
+ul{text-align:center;}
+ul li{display:inline-block; width: 70px;
+}
+li{
+    color:rgb(247,218,161);
+}
+section{
+    background-color: rgb(34, 40, 54);
+}
+h3{
+    text-align: center;
+    color:rgb(247,218,161) ;
+}
+.af{
+    border: 2px solid  rgb(247,218,161);
+}
